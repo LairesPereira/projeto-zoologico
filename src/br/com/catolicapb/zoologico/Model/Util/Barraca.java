@@ -1,2 +1,4 @@
-package br.com.catolicapb.zoologico.Model.Util;public class Barraca {
+package br.com.catolicapb.zoologico.Model.Util;
+
+public class Barraca {
 }
